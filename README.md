@@ -1,7 +1,6 @@
 <!-- ### Hi 👋 I am Rutuja! -->
 <!-- I am pursuing Master's in Information System from Northeastern University. I am Software Engineer actively looking for Summer intership in 2021. Few tech that I enjoy working in, are Java, Database, Modelling and AWS. -->
 <!-- Profile Views -->
-[![Header](https://raw.githubusercontent.com/kalerutuja/kalerutuja/master/banner_short.png "Header")](https://rshinde.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalerutuja&color=blue&style=plastic&label=Profile Views" alt="kalerutuja" /> </p>
 
 ## &#x1f4c8; GitHub Stats
